@@ -61,4 +61,8 @@ $(function() {
       form_g.find('.help-block').text('');
     }
   });
+
+  $('.totop').click(function() {
+    $("html, body").animate({scrollTop: 0}, 'slow');
+  });
 });
