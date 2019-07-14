@@ -59,6 +59,11 @@ header {
   min-height: 0;
 }
 
+.work p {
+  margin: 40px auto;
+  width: 90%;
+}
+
 /* NEWS */
 .blog {
   width: 100%;
