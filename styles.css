@@ -128,11 +128,16 @@ header {
 
 .work img {
   width: 100%;
-  height: auto;
+  height: 252px;
 }
 
 .work p {
   margin-top: 40px;
+}
+
+h2 a {
+  color: #505050;
+  text-decoration: none;
 }
 
 /* NEWS */
@@ -156,14 +161,9 @@ header {
   cursor: pointer;
 }
 
-.blog input {
+.blog button {
   float: right;
-  width: 60px;
-  text-align: center;
-  padding: 10px 5px;
   font-size: 15px;
-  letter-spacing: 1.5px;
-  border: none;
   background: #f6f5f4;
   cursor: pointer;
 }
