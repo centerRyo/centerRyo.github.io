@@ -38,7 +38,7 @@ header {
   width: 100%;
   background: #fff;
   height: 150px;
-  margin-top: 80px;
+  margin-top: 50px;
 }
 
 #header-logo {
@@ -140,10 +140,10 @@ h2 a {
   text-decoration: none;
 }
 
-/* NEWS */
-#news {
+/* BLOg */
+#blog {
   margin-top: 80px;
-  margin-bottom: 80px;
+  margin-bottom: 40px;
 }
 .blog {
   float: left;
@@ -255,30 +255,8 @@ form p span {
 }
 
 /* フッター */
-#bottom-nav {
-  float: left;
-  width: 400px;
-  height: 80px;
-  overflow: hidden;
-}
-
-#bottom-nav ul li {
-  float: left;
-  margin-right: 40px;
-  list-style: none;
-}
-
-#bottom-nav ul li a {
-  text-decoration: none;
-  color: #333;
-}
-
-#bottom-nav ul li a:hover {
-  text-decoration: underline;
-}
-
-footer p {
-  float: right;
+.footer {
+  text-align: center;
   font-size: 12px;
 }
 
