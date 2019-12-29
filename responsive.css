@@ -97,7 +97,12 @@ BLOG
 ABOUT
 ======================================== */
 #about p {
-  margin: 0 0 0 20px;;
+  margin: 20px;
+}
+
+#about .self {
+  margin: 20px 20px;
+  font-size: 16px;
 }
 
 .about_icon {
@@ -112,6 +117,16 @@ ABOUT
 
 #introduction p {
   padding-bottom: 20px;
+}
+
+table th {
+  font-size: 12px;
+  width: 30%;
+
+}
+
+table tr td {
+  padding-left: 5px;
 }
 
 /* ========================================
