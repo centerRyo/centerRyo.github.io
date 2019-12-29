@@ -45,6 +45,11 @@ header {
   font-size: 14px;
 }
 
+#top-nav ul li a {
+  display: block;
+  padding: 0;
+}
+
 /* WORK */
 .work {
   width: 100%;
